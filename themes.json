@@ -87,6 +87,22 @@
       "last_update": "2024-01-01",
       "up_to_date": 1,
       "screenshot": "themes/300px-ES-theme-R36S-SD-Card-Theme1.png"
+    },
+    {
+      "theme": "Switch",
+      "author": "Jetup13",
+      "theme_url": "https://github.com/Jetup13/es-theme-switch",
+      "last_update": "2024-01-01",
+      "up_to_date": 1,
+      "screenshot": "themes/300px-ES-theme-Switch1.png"
+    },
+    {
+      "theme": "WoodyCody",
+      "author": "CodyV59",
+      "theme_url": "https://github.com/CodyV59/es-theme-WOODY-CODY-RG351V",
+      "last_update": "2024-01-01",
+      "up_to_date": 1,
+      "screenshot": "themes/300px-ES-theme-WoodyCody1.png"
     }
   ]
 }
