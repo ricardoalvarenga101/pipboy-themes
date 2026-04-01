@@ -6,7 +6,6 @@
       "theme_url": "https://github.com/SzalikDesigns/Art-Book-4-3",
       "last_update": "2022-05-09",
       "up_to_date": 1,
-      "size": 88,
       "screenshot": "themes/Art-Book-4-3.jpg"
     },
     {
@@ -15,7 +14,6 @@
       "theme_url": "https://github.com/SzalikDesigns/Vepic-cody",
       "last_update": "2022-05-09",
       "up_to_date": 1,
-      "size": 10,
       "screenshot": "themes/Cody-Epic.jpg"
     },
     {
@@ -24,7 +22,6 @@
       "theme_url": "https://github.com/SzalikDesigns/amberelec-handheld-simple",
       "last_update": "2022-05-09",
       "up_to_date": 1,
-      "size": 10,
       "screenshot": "themes/Handheld-Simple.jpg"
     },
     {
@@ -33,8 +30,63 @@
       "theme_url": "https://github.com/ricardoalvarenga101/es-theme-alekfull-EmueELEC",
       "last_update": "2024-01-01",
       "up_to_date": 1,
-      "size": 10,
       "screenshot": "themes/es-theme-alekfull-EmueELEC.jpg"
+    },
+    {
+      "theme": "Pixel Perfect",
+      "author": "jessikarochas",
+      "theme_url": "https://github.com/jessikarochas/es-theme-pixel-perfect",
+      "last_update": "2024-01-01",
+      "up_to_date": 1,
+      "screenshot": "themes/es-theme-pixel-perfect.png"
+    },
+    {
+      "theme": "Farfenkugell Columns",
+      "author": "farfenkugell",
+      "theme_url": "https://github.com/farfenkugell/es-theme-farfenkugell-columns",
+      "last_update": "2024-01-01",
+      "up_to_date": 1,
+      "screenshot": "themes/es-theme-farfenkugell-columns.jpg"
+    },
+    {
+      "theme": "CodyDestroy",
+      "author": "CodyV59",
+      "theme_url": "https://github.com/CodyV59/es-theme-CODY-DESTROY-THE-RG351V",
+      "last_update": "2024-01-01",
+      "up_to_date": 1,
+      "screenshot": "themes/theme-CodyDestroy1.png"
+    },
+    {
+      "theme": "BannerOGSMAX",
+      "author": "Jetup13",
+      "theme_url": "https://github.com/Jetup13/es-theme-banner-ogsmax",
+      "last_update": "2024-01-01",
+      "up_to_date": 1,
+      "screenshot": "themes/eS-theme-BannerOGSMAX1.png"
+    },
+    {
+      "theme": "CodyDarkteck",
+      "author": "CodyV59",
+      "theme_url": "https://github.com/CodyV59/es-theme-CODY-DARKTECK",
+      "last_update": "2024-01-01",
+      "up_to_date": 1,
+      "screenshot": "themes/300px-ES-theme-CodyDarkteck1.png"
+    },
+    {
+      "theme": "Magical-Pixel",
+      "author": "Jetup13",
+      "theme_url": "https://github.com/Jetup13/es-theme-magical-pixel",
+      "last_update": "2024-01-01",
+      "up_to_date": 1,
+      "screenshot": "themes/300px-ES-theme-Magical-Pixel1.png"
+    },
+    {
+      "theme": "R36S-SD-Card-Theme",
+      "author": "Maik-M17",
+      "theme_url": "https://github.com/Maik-M17/R36S-SD-Card-Theme",
+      "last_update": "2024-01-01",
+      "up_to_date": 1,
+      "screenshot": "themes/300px-ES-theme-R36S-SD-Card-Theme1.png"
     }
   ]
 }
