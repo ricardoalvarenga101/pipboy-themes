@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "theme": "Art-Book-4-3",
+      "author": "SzalikDesigns",
+      "theme_url": "https://github.com/SzalikDesigns/Art-Book-4-3",
+      "last_update": "2022-05-09",
+      "up_to_date": 1,
+      "size": 88,
+      "screenshot": "themes/Art-Book-4-3.jpg"
+    },
+    {
+      "theme": "Cody-Epic",
+      "author": "SzalikDesigns",
+      "theme_url": "https://github.com/SzalikDesigns/Vepic-cody",
+      "last_update": "2022-05-09",
+      "up_to_date": 1,
+      "size": 10,
+      "screenshot": "themes/Cody-Epic.jpg"
+    },
+    {
+      "theme": "Handheld-Simple",
+      "author": "SzalikDesigns",
+      "theme_url": "https://github.com/SzalikDesigns/amberelec-handheld-simple",
+      "last_update": "2022-05-09",
+      "up_to_date": 1,
+      "size": 10,
+      "screenshot": "themes/Handheld-Simple.jpg"
+    },
+    {
+      "theme": "Alekfull",
+      "author": "ricardoalvarenga101",
+      "theme_url": "https://github.com/ricardoalvarenga101/es-theme-alekfull-EmueELEC",
+      "last_update": "2024-01-01",
+      "up_to_date": 1,
+      "size": 10,
+      "screenshot": "themes/es-theme-alekfull-EmueELEC.jpg"
+    }
+  ]
+}
