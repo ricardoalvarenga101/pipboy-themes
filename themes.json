@@ -104,6 +104,14 @@
       "up_to_date": 1,
       "screenshot": "themes/300px-ES-theme-WoodyCody1.png"
     },
+     {
+      "theme": "8bit",
+      "author": "SzalikDesigns",
+      "theme_url": "https://github.com/SzalikDesigns/amberelec-8bit",
+      "last_update": "2024-01-01",
+      "up_to_date": 1,
+      "screenshot": "themes/8bit.jpg"
+    },
     {
       "theme": "8bit-rsa",
       "author": "Ricardo-Alvarenga",
