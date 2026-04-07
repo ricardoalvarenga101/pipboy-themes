@@ -1,28 +1,12 @@
 {
   "data": [
     {
-      "theme": "Art-Book-4-3",
-      "author": "SzalikDesigns",
-      "theme_url": "https://github.com/SzalikDesigns/Art-Book-4-3",
-      "last_update": "2022-05-09",
+      "theme": "8bit-rsa",
+      "author": "Ricardo-Alvarenga",
+      "theme_url": "https://github.com/ricardoalvarenga101/8-bit-rsa",
+      "last_update": "2026-04-02",
       "up_to_date": 1,
-      "screenshot": "themes/Art-Book-4-3.jpg"
-    },
-    {
-      "theme": "Cody-Epic",
-      "author": "SzalikDesigns",
-      "theme_url": "https://github.com/SzalikDesigns/Vepic-cody",
-      "last_update": "2022-05-09",
-      "up_to_date": 1,
-      "screenshot": "themes/Cody-Epic.jpg"
-    },
-    {
-      "theme": "Handheld-Simple",
-      "author": "SzalikDesigns",
-      "theme_url": "https://github.com/SzalikDesigns/amberelec-handheld-simple",
-      "last_update": "2022-05-09",
-      "up_to_date": 1,
-      "screenshot": "themes/Handheld-Simple.jpg"
+      "screenshot": "themes/8bit.jpg"
     },
     {
       "theme": "Alekfull",
@@ -33,28 +17,20 @@
       "screenshot": "themes/es-theme-alekfull-EmueELEC.jpg"
     },
     {
-      "theme": "Pixel Perfect",
-      "author": "jessikarochas",
-      "theme_url": "https://github.com/jessikarochas/es-theme-pixel-perfect",
-      "last_update": "2024-01-01",
+      "theme": "Alekfull-NX",
+      "author": "Vidnez",
+      "theme_url": "https://github.com/Vidnez/es-theme-Alekfull-NX",
+      "last_update": "2025-12-05",
       "up_to_date": 1,
-      "screenshot": "themes/es-theme-pixel-perfect.png"
+      "screenshot": "themes/Alekfull-NX.png"
     },
     {
-      "theme": "Farfenkugell Columns",
-      "author": "farfenkugell",
-      "theme_url": "https://github.com/farfenkugell/es-theme-farfenkugell-columns",
-      "last_update": "2024-01-01",
+      "theme": "Art-Book-4-3",
+      "author": "SzalikDesigns",
+      "theme_url": "https://github.com/SzalikDesigns/Art-Book-4-3",
+      "last_update": "2022-05-09",
       "up_to_date": 1,
-      "screenshot": "themes/es-theme-farfenkugell-columns.jpg"
-    },
-    {
-      "theme": "CodyDestroy",
-      "author": "CodyV59",
-      "theme_url": "https://github.com/CodyV59/es-theme-CODY-DESTROY-THE-RG351V",
-      "last_update": "2024-01-01",
-      "up_to_date": 1,
-      "screenshot": "themes/theme-CodyDestroy1.png"
+      "screenshot": "themes/Art-Book-4-3.jpg"
     },
     {
       "theme": "BannerOGSMAX",
@@ -73,12 +49,68 @@
       "screenshot": "themes/300px-ES-theme-CodyDarkteck1.png"
     },
     {
+      "theme": "CodyDestroy",
+      "author": "CodyV59",
+      "theme_url": "https://github.com/CodyV59/es-theme-CODY-DESTROY-THE-RG351V",
+      "last_update": "2024-01-01",
+      "up_to_date": 1,
+      "screenshot": "themes/theme-CodyDestroy1.png"
+    },
+    {
+      "theme": "Cody-Epic",
+      "author": "SzalikDesigns",
+      "theme_url": "https://github.com/SzalikDesigns/Vepic-cody",
+      "last_update": "2022-05-09",
+      "up_to_date": 1,
+      "screenshot": "themes/Cody-Epic.jpg"
+    },
+    {
+      "theme": "Colorful-Noir",
+      "author": "snakkarike",
+      "theme_url": "https://github.com/snakkarike/es-theme-colorful-noir",
+      "last_update": "2025-12-05",
+      "up_to_date": 1,
+      "screenshot": "themes/colorful-noir.png"
+    },
+    {
+      "theme": "Crazy Boy",
+      "author": "SzalikDesigns",
+      "theme_url": "https://github.com/SzalikDesigns/amberelec-crazyboy",
+      "last_update": "2024-01-01",
+      "up_to_date": 1,
+      "screenshot": "themes/crazyBoy.jpg"
+    },
+    {
+      "theme": "Farfenkugell Columns",
+      "author": "farfenkugell",
+      "theme_url": "https://github.com/farfenkugell/es-theme-farfenkugell-columns",
+      "last_update": "2024-01-01",
+      "up_to_date": 1,
+      "screenshot": "themes/es-theme-farfenkugell-columns.jpg"
+    },
+    {
+      "theme": "Handheld-Simple",
+      "author": "SzalikDesigns",
+      "theme_url": "https://github.com/SzalikDesigns/amberelec-handheld-simple",
+      "last_update": "2022-05-09",
+      "up_to_date": 1,
+      "screenshot": "themes/Handheld-Simple.jpg"
+    },
+    {
       "theme": "Magical-Pixel",
       "author": "Jetup13",
       "theme_url": "https://github.com/Jetup13/es-theme-magical-pixel",
       "last_update": "2024-01-01",
       "up_to_date": 1,
       "screenshot": "themes/300px-ES-theme-Magical-Pixel1.png"
+    },
+    {
+      "theme": "Pixel Perfect",
+      "author": "jessikarochas",
+      "theme_url": "https://github.com/jessikarochas/es-theme-pixel-perfect",
+      "last_update": "2024-01-01",
+      "up_to_date": 1,
+      "screenshot": "themes/es-theme-pixel-perfect.png"
     },
     {
       "theme": "R36S-SD-Card-Theme",
@@ -103,22 +135,6 @@
       "last_update": "2024-01-01",
       "up_to_date": 1,
       "screenshot": "themes/300px-ES-theme-WoodyCody1.png"
-    },
-    {
-      "theme": "8bit-rsa",
-      "author": "Ricardo-Alvarenga",
-      "theme_url": "https://github.com/ricardoalvarenga101/8-bit-rsa",
-      "last_update": "2026-04-02",
-      "up_to_date": 1,
-      "screenshot": "themes/8bit.jpg"
-    },
-    {
-      "theme": "Crazy Boy",
-      "author": "SzalikDesigns",
-      "theme_url": "https://github.com/SzalikDesigns/amberelec-crazyboy",
-      "last_update": "2024-01-01",
-      "up_to_date": 1,
-      "screenshot": "themes/crazyBoy.jpg"
     }
   ]
 }
