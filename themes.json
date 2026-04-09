@@ -1,14 +1,6 @@
 {
   "data": [
     {
-      "theme": "one4all4one-fanartstar-bobmorane",
-      "author": "BobMoraneRetro",
-      "theme_url": "https://github.com/BobMoraneRetro/one4all4one-fanartstar-bobmorane",
-      "last_update": "2026-04-09",
-      "up_to_date": 1,
-      "screenshot": "one4all4one-fanartstar-bobmorane.png"
-    },
-        {
       "theme": "8bit-rsa",
       "author": "Ricardo-Alvarenga",
       "theme_url": "https://github.com/ricardoalvarenga101/8-bit-rsa",
@@ -119,6 +111,14 @@
       "last_update": "2024-01-01",
       "up_to_date": 1,
       "screenshot": "themes/300px-ES-theme-Magical-Pixel1.png"
+    },
+    {
+      "theme": "one4all4one-fanartstar-bobmorane",
+      "author": "BobMoraneRetro",
+      "theme_url": "https://github.com/BobMoraneRetro/one4all4one-fanartstar-bobmorane",
+      "last_update": "2026-04-09",
+      "up_to_date": 1,
+      "screenshot": "themes/one4all4one-fanartstar-bobmorane.png"
     },
     {
       "theme": "Pixel Perfect",
